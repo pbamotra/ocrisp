@@ -20,6 +20,7 @@ GEM
       addressable (~> 2.3, >= 2.3.5)
     ffi (1.9.25)
     forwardable-extended (2.6.0)
+    gemoji (3.0.0)
     html-pipeline (2.8.4)
       activesupport (>= 2)
       nokogiri (>= 1.4)
@@ -56,6 +57,10 @@ GEM
       nuggets
     jekyll-watch (2.0.0)
       listen (~> 3.0)
+    jemoji (0.10.1)
+      gemoji (~> 3.0)
+      html-pipeline (~> 2.2)
+      jekyll (~> 3.0)
     kramdown (1.17.0)
     liquid (4.0.0)
     listen (3.1.5)
@@ -104,6 +109,7 @@ DEPENDENCIES
   jekyll-picture-tag
   jekyll-sitemap
   jekyll-tagging
+  jemoji
 
 BUNDLED WITH
    1.16.5
