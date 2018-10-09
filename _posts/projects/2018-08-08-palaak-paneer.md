@@ -10,7 +10,7 @@ project:
   title: "Paalak Paneer"
   type: "Indian Cuisine"
   logo: "/assets/images/projects/palaakpaneer/logo.jpg"
-  tech: ""
+  ingred: "Spinach, Cottage cheese, Green chillies, Oil, Cumin Seeds, Ginger garlic paste, Roasted cumin powder, Rock salt, Table salt, Asafoetida, Bay leaf, Onion, Yogurt, Coriander Powder, Cilantro, Turmeric, Red Chilli Powder, Garam Masala"
 
 images:
   - image:
@@ -38,4 +38,4 @@ images:
     url: "/assets/images/projects/palaakpaneer/8.jpg"
     alt: ""
 ---
-<p></p>
+<p>Palaak Paneer is a traditional Punjabi vegetarian dish that has evolved in the north-western part of India. This pureed spinach dish loaded with Paneer and seasoned with ginger, garlic, and variety of spices makes it a favorite among the Indian food lovers all across the world.</p>
